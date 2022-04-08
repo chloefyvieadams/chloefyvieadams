@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chloefyvieadams
 - 👀 I’m interested in AR/VR/AI
 - 🌱 I’m currently learning Unity/C#
-- 💞️ I’m looking to collaborate on Educational Projects
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: chloefyvieadams@gmail.com
 
 <!---
